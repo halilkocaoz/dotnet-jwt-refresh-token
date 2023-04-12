@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-jwt-refresh-token", "src\dotnet-jwt-refresh-token.csproj", "{EBA315D9-433A-4AFD-93F2-DAE103C4103C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA315D9-433A-4AFD-93F2-DAE103C4103C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA315D9-433A-4AFD-93F2-DAE103C4103C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA315D9-433A-4AFD-93F2-DAE103C4103C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA315D9-433A-4AFD-93F2-DAE103C4103C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
