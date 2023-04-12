@@ -1,5 +1,3 @@
-using Azure;
-
 namespace dotnet_jwt_refresh_token;
 
 public class UnhandledExceptionsMiddleware
